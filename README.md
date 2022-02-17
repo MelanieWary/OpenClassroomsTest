@@ -1,5 +1,5 @@
 ## Context of the project:
-Evaluation of the feasability of automatic product classification for e-Commerce with image recognition and NLP
+Evaluation of the feasability of automatic product classification for e-Commerce with image recognition and NLP (data available [here](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Textimage+DAS+V2/Dataset+projet+pre%CC%81traitement+textes+images.zip))
 
 ## Objectives of the project:
 1. To determine product categories to be used
